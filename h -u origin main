@@ -1,0 +1,11 @@
+[33mcommit 8d32d60f73ff6524cd345797d5b4902013eaaed8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Malik de Laet Abashi <isklikma@gmail.com>
+Date:   Wed Jun 28 00:18:18 2023 -0300
+
+    frist commit react organo
+
+[33mcommit 6cef4c3fb6effd2c3840399385762d58da415ea5[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Malik de Laet Abashi <isklikma@gmail.com>
+Date:   Mon Jun 19 16:02:07 2023 -0300
+
+    Initialize project using Create React App
